@@ -4,7 +4,7 @@ List | Dictionary | Tuple | Set
 Each exercise prints the question first, then runs the code and shows the output.
 """
 
-from collections import Counter, defaultdict
+from collections import Counter
 
 
 def show(title):
